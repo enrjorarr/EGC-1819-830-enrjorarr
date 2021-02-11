@@ -21,4 +21,3 @@ install:
 script:
   - cd decide
   - python manage.py test store
-  - python manage.py test
